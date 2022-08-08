@@ -1,3 +1,3 @@
 # EmilyYChan.github.io
-Mariachi website
+Mariachi Veritas de Harvard static website
 Chevesic template
